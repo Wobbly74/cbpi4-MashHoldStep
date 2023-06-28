@@ -13,10 +13,7 @@ In this plugin, based on the standard MashIn step, it simply adds a new paramete
 You can install (or clone) it from the GIT Repo. In case of updates, you will find them here first:
 - sudo pip3 install https://github.com/Wobbly74/cbpi4-MashHoldStep/archive/main.zip
 
-Afterwards you will need to activate the plugin:
-- cbpi add cbpi4-MashHoldStep
-
-- this was based on Alexander Vollkopf's fork of cbpi4 available at https://github.com/avollkopf/craftbeerpi4
+This was originally based on Alexander Vollkopf's fork of cbpi4 which is now available at https://github.com/PiBrewing/craftbeerpi4
 
 ## Usage:
 
